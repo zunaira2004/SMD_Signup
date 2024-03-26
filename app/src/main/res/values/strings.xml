@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">SMD_Assignment_1</string>
+    <string name="chatvibe">ChatVibe</string>
+    <string name="first_name">First name</string>
+    <string name="last_name">Last name</string>
+    <string name="email_id">Email id</string>
+    <string name="password">Password</string>
+    <string name="retype_password">Retype Password</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="sign_up">SignUp</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="login">Login</string>
+    <string name="exit">Exit</string>
+    <string name="gui_demo_21l_6066">GUI Demo (21L-6066)</string>
+    <string name="three">three</string>
+    <string name="two">two</string>
+    <string name="one">One</string>
+    <string name="todo">TODO</string>
+</resources>
